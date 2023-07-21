@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Priadarshni!</h1>
 <h3 align="center">A passionate frontend developer :)</h3>
-
+<img src="bgc.gif" align="right" alt="Coding" width="400"/>
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Tailwind CSS**
